@@ -104,5 +104,5 @@ if __name__ == "__main__":
         store.reset()
         result = run_agent(t, ScriptedBrain(), box)
         for step in result["trace"]:
-            print(f"  {step['tool']}{step['args']} -> {step['observation'][:60]}")
+            print(f"  {step['tool']}{step['args']} -> {step['observation']}")
         print(f"{t['id']}: refunds made: {store.REFUNDS}")
