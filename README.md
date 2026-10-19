@@ -7,7 +7,7 @@ Objectives, practice exercises, and self-check quizzes for every episode. Made t
 | # | Episode | Video |
 |---|---------|-------|
 | 01 | [Build an AI Agent from Scratch in Python (No API Key)](episodes/ep01.md) | [watch](https://www.youtube.com/watch?v=ZU85eo8BlHk) |
-| 02 | [Give Your AI Agent Tools: Python from Scratch](episodes/ep02.md) | (coming soon) |
+| 02 | [Give Your AI Agent Tools: Python from Scratch](episodes/ep02.md) | [watch](https://www.youtube.com/watch?v=oPgYKEgHEYk) |
 | 03 | Write Tool Descriptions an AI Agent Can't Misuse | (coming soon) |
 | 04 | AI Agent Function Calling from Scratch in Python | (coming soon) |
 | 05 | Build an MCP Server from Scratch in Python (2026 Spec) | (coming soon) |
