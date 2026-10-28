@@ -10,7 +10,7 @@ Objectives, practice exercises, and self-check quizzes for every episode. Made t
 | 02 | [Give Your AI Agent Tools: Python from Scratch](episodes/ep02.md) | [watch](https://www.youtube.com/watch?v=oPgYKEgHEYk) |
 | 03 | [Write Tool Descriptions an AI Agent Can't Misuse](episodes/ep03.md) | [watch](https://www.youtube.com/watch?v=Rsuf9TKscdk) |
 | 04 | [AI Agent Function Calling from Scratch in Python](episodes/ep04.md) | [watch](https://www.youtube.com/watch?v=Bp4YL1Uq3uI) |
-| 05 | Build an MCP Server from Scratch in Python (2026 Spec) | (coming soon) |
+| 05 | [Build an MCP Server from Scratch in Python (2026 Spec)](episodes/ep05.md) | [watch](https://www.youtube.com/watch?v=0QmrwzPCeaQ) |
 | 06 | Context Engineering: Fit Your AI Agent in a Token Budget | (coming soon) |
 | 07 | Give Your AI Agent Memory from Scratch (MemGPT Style) | (coming soon) |
 | 08 | Human-in-the-Loop AI Agent: Pause, Approve, Resume | (coming soon) |
@@ -36,6 +36,7 @@ Run the tests in either folder with `python -m pytest -q` (Python 3.10 or newer,
 - Lesson 2: [`code/lesson-02/start`](code/lesson-02/start) · [`code/lesson-02/end`](code/lesson-02/end)
 - Lesson 3: [`code/lesson-03/start`](code/lesson-03/start) · [`code/lesson-03/end`](code/lesson-03/end)
 - Lesson 4: [`code/lesson-04/start`](code/lesson-04/start) · [`code/lesson-04/end`](code/lesson-04/end)
+- Lesson 5: [`code/lesson-05/start`](code/lesson-05/start) · [`code/lesson-05/end`](code/lesson-05/end)
 
 ---
 
