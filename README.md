@@ -11,16 +11,17 @@ Objectives, practice exercises, and self-check quizzes for every episode. Made t
 | 03 | [Write Tool Descriptions an AI Agent Can't Misuse](episodes/ep03.md) | [watch](https://www.youtube.com/watch?v=Rsuf9TKscdk) |
 | 04 | [AI Agent Function Calling from Scratch in Python](episodes/ep04.md) | [watch](https://www.youtube.com/watch?v=Bp4YL1Uq3uI) |
 | 05 | [Build an MCP Server from Scratch in Python (2026 Spec)](episodes/ep05.md) | [watch](https://www.youtube.com/watch?v=0QmrwzPCeaQ) |
-| 06 | Context Engineering: Fit Your AI Agent in a Token Budget | (coming soon) |
-| 07 | Give Your AI Agent Memory from Scratch (MemGPT Style) | (coming soon) |
-| 08 | Human-in-the-Loop AI Agent: Pause, Approve, Resume | (coming soon) |
-| 09 | Multi-Agent AI in Python: The Supervisor Pattern | (coming soon) |
-| 10 | Why AI Agents Fail (and How to Catch It in Code) | (coming soon) |
-| 11 | Stop Prompt Injection in Your AI Agent (Python) | (coming soon) |
-| 12 | How to Evaluate an AI Agent: Build Evals from Scratch | (coming soon) |
-| 13 | Trace Your AI Agent with OpenTelemetry-Style Spans | (coming soon) |
-| 14 | Run Your AI Agent in Production: Queues and Retries | (coming soon) |
-| 15 | Run Your AI Agent on a Local LLM with Ollama | (coming soon) |
+| 06 | [Build an MCP Client in Python from Scratch (No SDK)](episodes/ep06.md) | [watch](https://www.youtube.com/watch?v=GCMrwiYak3M) |
+| 07 | Build an AI Agent with Ollama in Python (Local, No API Key) | (coming soon) |
+| 08 | Stop Prompt Injection in Your AI Agent (Python) | (coming soon) |
+| 09 | How to Evaluate an AI Agent: Build Evals from Scratch | (coming soon) |
+| 10 | Multi-Agent AI in Python: The Supervisor Pattern | (coming soon) |
+| 11 | Give Your AI Agent Memory from Scratch (MemGPT Style) | (coming soon) |
+| 12 | Context Engineering: Fit Your AI Agent in a Token Budget | (coming soon) |
+| 13 | Human-in-the-Loop AI Agent: Pause, Approve, Resume | (coming soon) |
+| 14 | Why AI Agents Fail (and How to Catch It in Code) | (coming soon) |
+| 15 | Trace Your AI Agent with OpenTelemetry-Style Spans | (coming soon) |
+| 16 | Run Your AI Agent in Production: Queues and Retries | (coming soon) |
 
 ## Code
 
@@ -37,6 +38,7 @@ Run the tests in either folder with `python -m pytest -q` (Python 3.10 or newer,
 - Lesson 3: [`code/lesson-03/start`](code/lesson-03/start) · [`code/lesson-03/end`](code/lesson-03/end)
 - Lesson 4: [`code/lesson-04/start`](code/lesson-04/start) · [`code/lesson-04/end`](code/lesson-04/end)
 - Lesson 5: [`code/lesson-05/start`](code/lesson-05/start) · [`code/lesson-05/end`](code/lesson-05/end)
+- Lesson 6: [`code/lesson-06/start`](code/lesson-06/start) · [`code/lesson-06/end`](code/lesson-06/end)
 
 ---
 

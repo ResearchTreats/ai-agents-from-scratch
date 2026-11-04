@@ -2,7 +2,7 @@
 
 ScriptedBrain replays a written script for each ticket, in the same text format
 a real model is prompted to use. It is not intelligent, and it makes mistakes on
-purpose so later lessons have something real to catch. Lesson 15 swaps it for a
+purpose so later lessons have something real to catch. Lesson 7 swaps it for a
 real local model; nothing else in the agent changes.
 """
 
