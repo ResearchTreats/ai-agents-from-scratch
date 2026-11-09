@@ -15,7 +15,7 @@ Objectives, practice exercises, and self-check quizzes for every episode. Made t
 | 07 | [Build an AI Agent with Ollama in Python (Local, No API Key)](episodes/ep07.md) | [watch](https://www.youtube.com/watch?v=Mohs1LbdDQU) |
 | 08 | [Prompt Injection Attacks on AI Agents: Build a Guard](episodes/ep08.md) | [watch](https://www.youtube.com/watch?v=iNOevlLgpeY) |
 | 09 | [How to Evaluate AI Agents: Build Evals from Scratch](episodes/ep09.md) | [watch](https://www.youtube.com/watch?v=R1ETAHmbMhQ) |
-| 10 | Multi-Agent AI in Python: The Supervisor Pattern | (coming soon) |
+| 10 | [Multi-Agent AI in Python: The Supervisor Pattern](episodes/ep10.md) | [watch](https://www.youtube.com/watch?v=urZCbJwWvTA) |
 | 11 | Give Your AI Agent Memory from Scratch (MemGPT Style) | (coming soon) |
 | 12 | Context Engineering: Fit Your AI Agent in a Token Budget | (coming soon) |
 | 13 | Human-in-the-Loop AI Agent: Pause, Approve, Resume | (coming soon) |
@@ -42,6 +42,7 @@ Run the tests in either folder with `python -m pytest -q` (Python 3.10 or newer,
 - Lesson 7: [`code/lesson-07/start`](code/lesson-07/start) · [`code/lesson-07/end`](code/lesson-07/end)
 - Lesson 8: [`code/lesson-08/start`](code/lesson-08/start) · [`code/lesson-08/end`](code/lesson-08/end)
 - Lesson 9: [`code/lesson-09/start`](code/lesson-09/start) · [`code/lesson-09/end`](code/lesson-09/end)
+- Lesson 10: [`code/lesson-10/start`](code/lesson-10/start) · [`code/lesson-10/end`](code/lesson-10/end)
 
 ---
 
