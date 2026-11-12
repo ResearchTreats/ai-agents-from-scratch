@@ -11,7 +11,7 @@ Objectives, practice exercises, and self-check quizzes for every episode. Made t
 | 03 | [Write Tool Descriptions an AI Agent Can't Misuse](episodes/ep03.md) | [watch](https://www.youtube.com/watch?v=Rsuf9TKscdk) |
 | 04 | [AI Agent Function Calling from Scratch in Python](episodes/ep04.md) | [watch](https://www.youtube.com/watch?v=Bp4YL1Uq3uI) |
 | 05 | [Build an MCP Server from Scratch in Python (2026 Spec)](episodes/ep05.md) | [watch](https://www.youtube.com/watch?v=0QmrwzPCeaQ) |
-| 06 | [Build an MCP Client in Python from Scratch (No SDK)](episodes/ep06.md) | [watch](https://www.youtube.com/watch?v=GCMrwiYak3M) |
+| 06 | [Build an MCP Client in Python from Scratch (No SDK)](episodes/ep06.md) | [watch](https://www.youtube.com/watch?v=C8u8LBH6Ir4) |
 | 07 | [Build an AI Agent with Ollama in Python (Local, No API Key)](episodes/ep07.md) | [watch](https://www.youtube.com/watch?v=Mohs1LbdDQU) |
 | 08 | [Prompt Injection Attacks on AI Agents: Build a Guard](episodes/ep08.md) | [watch](https://www.youtube.com/watch?v=iNOevlLgpeY) |
 | 09 | [How to Evaluate AI Agents: Build Evals from Scratch](episodes/ep09.md) | [watch](https://www.youtube.com/watch?v=R1ETAHmbMhQ) |
